@@ -1,0 +1,26 @@
+{
+  "name": "super-duper-unique-cms",
+  "version": "1.0.0",
+  "description": "A hypothetical content management system for a hypothetical company with hypothetical employees.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theopappas17/super-duper-unique-CMS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theopappas17/super-duper-unique-CMS/issues"
+  },
+  "homepage": "https://github.com/theopappas17/super-duper-unique-CMS#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^16.0.1",
+    "inquirer": "^8.2.4",
+    "mysql2": "^2.3.3"
+  }
+}
