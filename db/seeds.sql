@@ -20,10 +20,10 @@ INSERT INTO roles (title, salary, department_id)
 
 INSERT INTO employees (first_name, last_name, role_id, manager_id)
     VALUES
-    ("Vesper", "Lynd", 8, 1),
-    ("Gala", "Brand", 6, 2),
-    ("Tiffany", "Case", 3, 3),
-    ("Judy", "Havelock", 1, 4),
+    ("Vesper", "Lynd", 8, 0),
+    ("Gala", "Brand", 6, 0),
+    ("Tiffany", "Case", 3, 0),
+    ("Judy", "Havelock", 1, 0),
     ("Pussy", "Galore", 9, 4),
     ("Kissy", "Suzuki", 4, 2),
     ("Vivienne", "Michel", 5, 2),
